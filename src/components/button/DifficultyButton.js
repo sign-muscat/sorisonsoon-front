@@ -1,5 +1,5 @@
-import {Text, Button, Flex, HStack} from "@chakra-ui/react";
-import {InfoOutlineIcon} from "@chakra-ui/icons";
+import { InfoOutlineIcon } from "@chakra-ui/icons";
+import { Button, Flex, HStack, Text } from "@chakra-ui/react";
 
 function DifficultyButton({difficulty, handleDifficulty}) {
     return (
